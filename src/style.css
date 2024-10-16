@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'DMSans1';
+    src: url('/bento-grid-main/assets/fonts/static/DMSans-Medium.ttf') format('truetype');
+    font-weight: 500; /* Medium weight */
+    font-style: normal;
+}
+@font-face {
+    font-family: 'DMSans2';
+    src: url('/bento-grid-main/assets/fonts/static/DMSans-MediumItalic.ttf') format('truetype');
+    font-weight: 500; /* Medium weight */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DMSans3';
+    src: url('/bento-grid-main/assets/fonts/static/DMSans-Regular.ttf') format('truetype');
+    font-weight: 500; /* Medium weight */
+    font-style: normal;
+}
